@@ -1,3 +1,6 @@
+> [!tip] 
+> New Growth cannot exist without the destruction of Old
+
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
