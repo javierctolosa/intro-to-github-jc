@@ -1,4 +1,4 @@
-> [!quote]
+> [!important]
 > "Instinct is a lie, told by a fearful body, hoping to be wrong".
 > – Guru Laghima
 
